@@ -33,6 +33,10 @@ nav .collapse form button.btn:hover{
     background: red;
 }
 
+#home .container .btn-primary:active{
+    outline: 0;
+    box-shadow: 0;
+}
 
 /* ============ INFO ================================= */
 .info .card {
